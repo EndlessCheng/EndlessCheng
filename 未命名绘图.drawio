@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T07:03:10.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="CXQIAq82wuF_kRxstpJV" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T07:08:36.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="zax-Cjs8hZaf3dnSjWmc" version="16.5.3" type="github">
   <diagram id="WzrLIcee8Uv0exUfzh-z" name="第 1 页">
     <mxGraphModel dx="817" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,6 +84,18 @@
             <mxPoint x="310" y="440" as="sourcePoint" />
             <mxPoint x="365" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hrqttEmVb12-6mRyW3wM-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hrqttEmVb12-6mRyW3wM-39" value="&lt;span style=&quot;font-size: 12px&quot;&gt;含有违禁货物的车厢&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hrqttEmVb12-6mRyW3wM-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hrqttEmVb12-6mRyW3wM-42" value="&lt;span style=&quot;font-size: 12px&quot;&gt;不含违禁货物的车厢&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
