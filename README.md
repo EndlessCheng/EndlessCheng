@@ -1,4 +1,4 @@
-欢迎关注我的 B 站频道：[灵茶山艾府](https://space.bilibili.com/206214)，每周日更新算法讲解视频哦~
+欢迎关注我的 B 站频道：[灵茶山艾府](https://space.bilibili.com/206214)，定期更新算法讲解视频哦~
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
