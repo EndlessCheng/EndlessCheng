@@ -1,5 +1,7 @@
 欢迎关注我的 B 站频道：[灵茶山艾府](https://space.bilibili.com/206214)，定期更新算法讲解视频哦~
 
+喜欢刷题的同学也欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`。
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessCheng&layout=compact&theme=tokyonight" alt="languages" height="177"> -->
