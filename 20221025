@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T03:02:38.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="ap_AwCaVIpJt79g2b1zl" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T03:33:06.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="jKWskMxyBkQ7aWNsi758" version="20.4.2" type="github">
   <diagram id="2GxginjoimpM549GYD0j" name="第 1 页">
-    <mxGraphModel dx="948" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="711" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,25 +29,25 @@
           <mxGeometry x="231" y="389" width="52" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-14" value="`s[i]`" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontFamily=Garamond;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="370" y="265" width="50" height="31" as="geometry" />
+          <mxGeometry x="371" y="262" width="50" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rzddsJ-avebsgfRxxGCW-20" value="遍历到 `s[i]` 时，考虑左边的某个 `s[j]`，如果 `s[i]-s[j]\ge k`，那么无论 `s[i]` 右边的&lt;br style=&quot;font-size: 16px;&quot;&gt;数字是大是小，都不可能把 `j` 当作子数组的左端点，得到一个比 `i-j` 更短的子数组。&lt;br style=&quot;font-size: 16px;&quot;&gt;所以 `s[j]` 没有任何作用了。弹它！" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Garamond;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="104" y="460" width="620" height="70" as="geometry" />
+        <mxCell id="rzddsJ-avebsgfRxxGCW-20" value="遍历到 `s[i]` 时，考虑左边的某个 `s[j]`，如果 `s[i]-s[j]\ge k`，那么无论 `s[i]` 右边的&lt;br style=&quot;font-size: 16px;&quot;&gt;数字是大是小，都不可能把 `j` 当作子数组的左端点，得到一个比 `i-j` 更短的子数组。&lt;br style=&quot;font-size: 16px;&quot;&gt;因此 `s[j]` 没有任何作用了，弹它！" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Garamond;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="104" y="452" width="620" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="231" y="389" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="265" width="12" height="12" as="geometry" />
+          <mxGeometry x="371" y="262" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="319" y="308" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="472" y="195" width="12" height="12" as="geometry" />
+          <mxGeometry x="461" y="195" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="534" y="329" width="12" height="12" as="geometry" />
+          <mxGeometry x="530" y="329" width="12" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
