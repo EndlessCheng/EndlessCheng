@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T06:48:16.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="41iWx-7-a5CcDZOTO_nW" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T09:44:51.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="oQmAAaUXOyOhO8F9Wnav" version="20.5.1" type="github">
   <diagram id="2GxginjoimpM549GYD0j" name="第 1 页">
-    <mxGraphModel dx="981" dy="554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="rzddsJ-avebsgfRxxGCW-14" value="`a[i]`" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontFamily=Garamond;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="445" y="317" width="51" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="rzddsJ-avebsgfRxxGCW-20" value="遍历到 `a[i]` 时，如果 `a[i]\le a[j]`，假如后续有数字 `x&amp;gt;a[j]`，那么必然也有 `x&amp;gt;a[i]`，&lt;br&gt;由于从 `a[i]` 离 `x` 更近，因此 `a[j]` 没有任何作用了，弹它！" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Garamond;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="rzddsJ-avebsgfRxxGCW-20" value="遍历到 `a[i]` 时，如果 `a[i]\le a[j]`，假如后续有数字 `x&amp;gt;a[j]`，那么必然也有 `x&amp;gt;a[i]`，&lt;br&gt;由于从 `a[i]` 离 `x` 更近，因此 `a[j]` 不会成为 `x` 的边界，没有任何作用了，弹它！" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Garamond;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="96" y="460" width="635" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rzddsJ-avebsgfRxxGCW-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
