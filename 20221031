@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T08:47:40.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Y6IiAnc-T3ZDudXISoI3" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T09:05:38.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="1LzEVA2RpnR0-BcqFeu_" version="20.5.1" type="github">
   <diagram id="ApP9zyWOGOUK0DS-kR_c" name="第 1 页">
     <mxGraphModel dx="708" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
@@ -156,7 +156,7 @@
         <mxCell id="G-fXYu1M2QSk1mUgd4FX-30" value="&lt;b&gt;情况一&lt;/b&gt;：恰好到达，例如终点=10。" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G-fXYu1M2QSk1mUgd4FX-32" value="&lt;b&gt;情况二&lt;/b&gt;：越过终点相差&lt;b style=&quot;&quot;&gt;偶数&lt;/b&gt;，例如终点=8。&lt;br&gt;&lt;b&gt;解决方案&lt;/b&gt;：如果相差 2，把第一步&lt;b style=&quot;&quot;&gt;反向&lt;/b&gt;走；如果相差 4，把第二步反向走；……" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;gradientColor=none;spacingLeft=20;" vertex="1" parent="1">
+        <mxCell id="G-fXYu1M2QSk1mUgd4FX-32" value="&lt;b&gt;情况二&lt;/b&gt;：越过终点且相距&lt;b style=&quot;&quot;&gt;偶数&lt;/b&gt;，例如终点=8。&lt;br&gt;&lt;b&gt;解决方案&lt;/b&gt;：如果相距&amp;nbsp;2，把第一步&lt;b style=&quot;&quot;&gt;反向&lt;/b&gt;走；如果相距&amp;nbsp;4，把第二步反向走；……" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;gradientColor=none;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="580" width="600" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G-fXYu1M2QSk1mUgd4FX-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -266,7 +266,7 @@
         <mxCell id="G-fXYu1M2QSk1mUgd4FX-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#0050ef;strokeColor=#001DBC;opacity=80;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="392" y="1029" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="G-fXYu1M2QSk1mUgd4FX-65" value="&lt;b&gt;情况三&lt;/b&gt;：越过终点相差&lt;b&gt;奇数&lt;/b&gt;，例如终点=7。&lt;br&gt;&lt;b&gt;解决方案&lt;/b&gt;：&lt;b&gt;多走一步&lt;/b&gt;，如果相差变为偶数，则转换成&lt;b&gt;情况二&lt;/b&gt;，否则见&lt;b&gt;情况四&lt;/b&gt;。" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;gradientColor=none;spacingLeft=20;" vertex="1" parent="1">
+        <mxCell id="G-fXYu1M2QSk1mUgd4FX-65" value="&lt;b&gt;情况三&lt;/b&gt;：越过终点且相距&lt;b&gt;奇数&lt;/b&gt;，例如终点=7。&lt;br&gt;&lt;b&gt;解决方案&lt;/b&gt;：&lt;b&gt;多走一步&lt;/b&gt;，如果相距变为偶数，则转换成&lt;b&gt;情况二&lt;/b&gt;，否则见&lt;b&gt;情况四&lt;/b&gt;。" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;gradientColor=none;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="853" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G-fXYu1M2QSk1mUgd4FX-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -422,7 +422,7 @@
         <mxCell id="G-fXYu1M2QSk1mUgd4FX-99" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#0050ef;strokeColor=#001DBC;opacity=80;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="313" y="1359" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="G-fXYu1M2QSk1mUgd4FX-100" value="&lt;b&gt;情况四&lt;/b&gt;：越过终点相差&lt;b&gt;奇数&lt;/b&gt;，且多走一步还是相差奇数，例如终点=5。&lt;br&gt;&lt;b&gt;解决方案&lt;/b&gt;：&lt;b&gt;多走两步&lt;/b&gt;，相差必然变为偶数（证明见下），转换成&lt;b&gt;情况二&lt;/b&gt;。" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;gradientColor=none;spacingLeft=20;" vertex="1" parent="1">
+        <mxCell id="G-fXYu1M2QSk1mUgd4FX-100" value="&lt;b&gt;情况四&lt;/b&gt;：越过终点相距&lt;b&gt;奇数&lt;/b&gt;，且多走一步还是相距&lt;b&gt;奇数&lt;/b&gt;，例如终点=5。&lt;br&gt;&lt;b&gt;解决方案&lt;/b&gt;：&lt;b&gt;多走两步&lt;/b&gt;，相距必然变为偶数（证明见下），转换成&lt;b&gt;情况二&lt;/b&gt;。" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontSize=16;opacity=80;gradientColor=none;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="1183" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G-fXYu1M2QSk1mUgd4FX-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
