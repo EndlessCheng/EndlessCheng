@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T07:29:05.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="yfbZDusPqXyEXSNzSD3W" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T07:30:17.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="sos1TZLwZ_T2IpqAvztV" version="20.5.1" type="github">
   <diagram id="gdGbil9lI0UsQGoFqHnj" name="第 1 页">
     <mxGraphModel dx="1679" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
@@ -519,8 +519,8 @@
         </mxCell>
         <mxCell id="zL7OwfXQOp9VNUHCRiTl-338" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="67" y="1110" as="sourcePoint" />
-            <mxPoint x="67" y="1027" as="targetPoint" />
+            <mxPoint x="67" y="1108" as="sourcePoint" />
+            <mxPoint x="67" y="1025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zL7OwfXQOp9VNUHCRiTl-339" value="`f[n]=f[n-1]+f[n-2]+2\cdot(f[n-3]+f[n-4]\cdots+1)`" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
@@ -533,10 +533,10 @@
           <mxGeometry x="613" y="1173" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zL7OwfXQOp9VNUHCRiTl-343" value="`(2)-(1)\Rightarrow f[n]-f[n-1]=f[n-1]-f[n-3]`" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="43" y="1246" width="350" height="40" as="geometry" />
+          <mxGeometry x="43" y="1238" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zL7OwfXQOp9VNUHCRiTl-344" value="`\Rightarrow f[n]=2\cdot f[n-1]-f[n-3]`" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="129" y="1284" width="310" height="40" as="geometry" />
+          <mxGeometry x="129" y="1276" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
