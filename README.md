@@ -1,8 +1,6 @@
 欢迎关注我的B站频道：[灵茶山艾府](https://space.bilibili.com/206214)，每周更新算法讲解视频，每周日下午两点在B站直播讲题。
 
-喜欢刷题和打比赛的同学也欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`，需要 LC1700/CF1200，或者其他平台的等价分数。
-
-群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
+喜欢刷题和打比赛的同学也欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`，需要 LC1700/CF1200，或者其他平台的等价分数。群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
