@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T07:21:38.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="LLRfSuzkHs_07EA6Txr1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T09:49:13.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="7E2Tyd4JN00QWFNBhlW_" version="20.5.3" type="github">
   <diagram id="L4sHhydYy_RvRM4YUP_v" name="第 1 页">
-    <mxGraphModel dx="981" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
+    <mxGraphModel dx="1673" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
           <mxGeometry x="75" y="532" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XJo6LqKMvcNwR3iyL2Sg-79" value="&lt;span style=&quot;color: rgb(133, 133, 133); font-size: 10px;&quot;&gt;设 `x` 在排序后的数组中的下标为 `i`（从 `0` 开始）&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;`x` 作为最大值的子序列的个数为 `2^i`&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`x` 作为最小值的子序列的个数为 `2^{n-1-i}`&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: center;&quot;&gt;`x` 对答案的贡献为 `(2^i-2^{n-1-i}) \times x`&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;累加每个元素的贡献，得到答案&lt;br&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=20;spacingLeft=20;spacingRight=-15;spacingBottom=5;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="115" y="662" width="330" height="140" as="geometry" />
+          <mxGeometry x="125" y="662" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XJo6LqKMvcNwR3iyL2Sg-84" value="结论" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fontSize=24;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="220" y="612" width="120" height="40" as="geometry" />
