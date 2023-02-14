@@ -2,6 +2,8 @@
 
 [【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)B站连载中~欢迎一键三连！
 
+[高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
+
 喜欢刷题和打比赛的同学也欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`，需要 LC1700/CF1200，或者其他平台的等价分数。群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
 
 <p align="left">
