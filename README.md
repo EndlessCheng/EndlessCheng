@@ -4,7 +4,9 @@
 
 [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 
-喜欢刷题和打比赛的同学，欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`，需要力扣 1700 分，或者 Codeforces 1200 分，或者其他平台的等价分数。
+喜欢刷题和打比赛的同学，欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`。
+
+入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。还没达到的同学请加油！可以看我的B站视频学习，有问题也可以私信问我。
 
 群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
 
