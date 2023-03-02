@@ -4,7 +4,7 @@
 
 [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 
-喜欢刷题和打比赛的同学也欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`，需要 LC1700/CF1200，或者其他平台的等价分数。群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
+喜欢刷题和打比赛的同学也欢迎加入我的算法竞赛群，联系微信 AC_0x3F，备注 `git`，需要力扣 1700 分，或者 Codeforces 1200 分，或者其他平台的等价分数。群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
