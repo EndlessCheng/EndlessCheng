@@ -1,4 +1,4 @@
-欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)，每周更新算法讲解视频，每周日下午两点在B站直播讲题。
+欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)，每周更新算法相关视频，每周日下午两点在B站直播讲题。
 
 [【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)B站连载中~欢迎一键三连！
 
