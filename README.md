@@ -1,13 +1,8 @@
-欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)，每周更新算法相关视频，每周日下午两点在B站直播讲题。
+算法讲师 | 力扣竞赛 Top 10 | 全平台刷题量 7000+
 
-- [【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)B站连载中~欢迎一键三连！
-- [基础算法题单](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
-- [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
+提供算法面试一对一特训，大幅提高通过率！添加微信 AC_0x3F 了解详情（备注特训）。
 
-喜欢刷题和打比赛的同学，欢迎加入我的算法群，联系微信 AC_0x3F，备注 `git`。
-
-- 入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。还没达到的同学请加油！可以看我的B站视频学习，有问题也可以私信问我。
-- 群内活动：周一至周五，每天我会精选一道算法题，带群友刷题~
+通过特训，在深刻理解算法的同时，掌握举一反三的能力，即使遇到新题也能从容应对。通过特训，你获得的不仅是算法能力，还有系统思考的能力，受益终生。
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
