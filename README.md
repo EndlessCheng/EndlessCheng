@@ -1,6 +1,6 @@
 提供算法面试一对一特训，保姆式教学，详情咨询微信 AC_0x3F（备注特训）。
 
-通过特训，在深刻理解算法的同时，掌握举一反三的能力，即使遇到新题也能从容应对。通过特训，你获得的不仅是算法能力，还有系统思考的能力，受益终生。
+通过特训，在深刻理解算法的同时，掌握举一反三的能力，即使遇到新题也能从容应对。
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
