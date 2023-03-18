@@ -2,6 +2,8 @@
 
 通过特训，在深刻理解算法的同时，掌握举一反三的能力，即使遇到新题也能从容应对。
 
+支持 Python/Java/C++/Go 等多种语言。
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndlessCheng&layout=compact&theme=tokyonight" alt="languages" height="177"> -->
