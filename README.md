@@ -1,6 +1,3 @@
-不知道如何入门算法？还在背二分/KMP/最短路/...的代码？拒绝死记硬背！用纯粹的逻辑思维推导出所有算法！一次学习，终生难忘！
-
-一切尽在「灵茶山艾府 · 一对一特训」，咨询请加微信 AC_0x3F（备注特训）。
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
