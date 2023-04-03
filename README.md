@@ -1,7 +1,7 @@
 透彻讲解算法，直击算法本质！欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)
 
-- [【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)B站连载中~
-- [基础算法题单](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
+- [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 带你扫清算法学习的迷雾！
+- [配套题目+代码](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 - [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 
 加群请添加微信 AC_0x3F，备注「加群」。需要力扣周赛 1700 分，或 Codeforces 1200 分。
