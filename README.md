@@ -1,4 +1,4 @@
-透彻讲解算法，直击算法本质！欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)。
+透彻讲解算法，直击算法本质！欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)
 
 - [【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)B站连载中~
 - [基础算法题单](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
