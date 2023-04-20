@@ -4,7 +4,7 @@
 - [配套题目+代码](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 - [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 
-加群请添加微信 AC_0x3F，备注「加群」。需要力扣周赛 1700 分，或 Codeforces 1200 分。
+高质量算法交流群：请添加微信 AC_0x3F，备注「加群」。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
 
 如果你暂时没达到资格，可以看我的[【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)系列，尽可能地完成课后习题，有问题可以评论留言。
  <!-- 
