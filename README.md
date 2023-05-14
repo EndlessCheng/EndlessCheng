@@ -7,6 +7,12 @@
 高质量算法交流群：请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
 
 如果你暂时没达到资格，可以看我的[【基础算法精讲】](https://www.bilibili.com/video/BV1AP41137w7/)系列，尽可能地完成课后习题，有问题可以评论留言。
+
+**我的 Codeforces 账号**
+
+[![0x3F](https://img.shields.io/badge/0x3F-MASTER%202189-orange?style=for-the-badge)](https://codeforces.com/profile/0x3F)
+
+
  <!-- 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
