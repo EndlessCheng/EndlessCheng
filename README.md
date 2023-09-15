@@ -12,6 +12,8 @@
 
 [![0x3F](https://img.shields.io/badge/0x3F-MASTER%202208-orange?style=for-the-badge)](https://codeforces.com/profile/0x3F)
 
+[《灵茶八题》题目列表](https://www.luogu.com.cn/blog/endlesscheng/post-ling-cha-ba-ti-ti-mu-lie-biao)
+
  <!-- 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EndlessCheng&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
