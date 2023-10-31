@@ -3,6 +3,7 @@
 - [基础算法精讲](https://www.bilibili.com/video/BV1bP411c7oJ/) 带你扫清算法学习的迷雾！
 - [配套题目+代码](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 - [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
+- [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
 
 高质量算法交流群：请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
 
