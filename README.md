@@ -1,6 +1,6 @@
 透彻讲解算法，直击算法本质！欢迎关注 bilibili[@灵茶山艾府](https://space.bilibili.com/206214)
 
-- [基础算法精讲](https://www.bilibili.com/video/BV1bP411c7oJ/) 带你扫清算法学习的迷雾！
+- [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 带你扫清算法学习的迷雾！
 - [配套题目+代码](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 - [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
