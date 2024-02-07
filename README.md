@@ -4,12 +4,6 @@
 - [配套题目+代码](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 - [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 
-### 高质量算法交流群
-
-请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
-
-如果你暂时没有达到要求，可以看我的 [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 系列，**尽可能地完成课后习题，以及下面的分类题单**，有问题可以在视频下评论。
-
 ### 分类题单
 
 - [滑动窗口（定长/不定长/多指针）](https://leetcode.cn/circle/discuss/0viNMK/)
@@ -17,6 +11,12 @@
 - [单调栈（矩形系列/字典序最小/贡献法）](https://leetcode.cn/circle/discuss/9oZFK9/)
 - [网格图（DFS/BFS/综合应用）](https://leetcode.cn/circle/discuss/YiXPXW/)
 - [位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）](https://leetcode.cn/circle/discuss/dHn9Vk/)
+
+### 高质量算法交流群
+
+请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
+
+如果你暂时没有达到要求，可以看我的 [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 系列，**尽可能地完成课后习题，以及上面的分类题单**，有问题可以在视频下评论。
 
 ### 其它
 
