@@ -18,6 +18,13 @@
 
 如果你暂时没有达到要求，可以看我的 [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 系列，**尽可能地完成课后习题，以及上面的分类题单**，有问题可以在视频下评论。
 
+### 周赛总结
+
+- [从周赛中学算法 - 2023·下](https://leetcode.cn/circle/discuss/lUu0KB/)
+- [从周赛中学算法 - 2023·上](https://leetcode.cn/circle/discuss/v2RXSN/)
+- [从周赛中学算法 - 2022·下](https://leetcode.cn/circle/discuss/WR1MJP/)
+- [从周赛中学算法 - 2022·上](https://leetcode.cn/circle/discuss/G0n5iY/)
+
 ### 其它
 
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
