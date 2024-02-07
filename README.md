@@ -12,12 +12,6 @@
 - [网格图（DFS/BFS/综合应用）](https://leetcode.cn/circle/discuss/YiXPXW/)
 - [位运算（基础/性质/拆位/试填/恒等式/贪心/脑筋急转弯）](https://leetcode.cn/circle/discuss/dHn9Vk/)
 
-### 高质量算法交流群
-
-请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
-
-如果你暂时没有达到要求，可以看我的 [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 系列，**尽可能地完成课后习题，以及上面的分类题单**，有问题可以在视频下评论。
-
 ### 周赛总结
 
 - [从周赛中学算法 - 2023·下](https://leetcode.cn/circle/discuss/lUu0KB/)
@@ -30,6 +24,12 @@
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
 - [Codeforces 怎么上分？](https://www.zhihu.com/question/353734418/answer/2353160035)
 - [《灵茶八题》题目列表](https://www.luogu.com.cn/blog/endlesscheng/post-ling-cha-ba-ti-ti-mu-lie-biao)
+
+### 高质量算法交流群
+
+请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
+
+如果你暂时没有达到要求，可以看我的 [基础算法精讲](https://www.bilibili.com/video/BV1AP41137w7/) 系列，**尽可能地完成课后习题，以及上面的分类题单**，有问题可以在视频下评论。
 
 [![0x3F](https://img.shields.io/badge/0x3F-MASTER%202208-orange?style=for-the-badge)](https://codeforces.com/profile/0x3F)
 
