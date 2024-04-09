@@ -14,13 +14,6 @@
 - [图论算法（DFS/BFS/拓扑排序/最短路/最小生成树/二分图/基环树/欧拉路径）](https://leetcode.cn/circle/discuss/01LUak/)
 - 🔥[动态规划（入门/背包/状态机/划分/区间/状压/数位/数据结构优化/树形/博弈/概率期望）](https://leetcode.cn/circle/discuss/tXLS3i/)
 
-### 周赛总结
-
-- [从周赛中学算法 - 2023·下](https://leetcode.cn/circle/discuss/lUu0KB/)
-- [从周赛中学算法 - 2023·上](https://leetcode.cn/circle/discuss/v2RXSN/)
-- [从周赛中学算法 - 2022·下](https://leetcode.cn/circle/discuss/WR1MJP/)
-- [从周赛中学算法 - 2022·上](https://leetcode.cn/circle/discuss/G0n5iY/)
-
 ### 其它
 
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
