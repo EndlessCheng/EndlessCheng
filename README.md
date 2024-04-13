@@ -22,7 +22,7 @@
 - [按照洛谷通过人数排序的主题库题单](https://www.luogu.com.cn/training/491073)
 - [《灵茶八题》题目列表](https://www.luogu.com.cn/blog/endlesscheng/post-ling-cha-ba-ti-ti-mu-lie-biao)
 
-### 高质量算法群
+### 高质量算法交流群
 
 请添加微信 AC_0x3F，备注 git。入群资格：力扣周赛 1700 分，或 Codeforces 1200 分。
 
