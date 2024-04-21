@@ -16,6 +16,7 @@
 
 ### 其它
 
+- 🔥[从集合论到位运算，常见位运算技巧分类总结！](https://leetcode.cn/circle/discuss/CaOJ45/)
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
 - [Codeforces 怎么上分？](https://www.zhihu.com/question/353734418/answer/2353160035)
 - [按照洛谷通过人数排序的 CF 题单](https://www.luogu.com.cn/training/465300)
