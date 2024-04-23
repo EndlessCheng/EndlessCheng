@@ -22,6 +22,7 @@
 - [按照洛谷通过人数排序的 CF 题单](https://www.luogu.com.cn/training/465300)
 - [按照洛谷通过人数排序的主题库题单](https://www.luogu.com.cn/training/491073)
 - [《灵茶八题》题目列表](https://www.luogu.com.cn/blog/endlesscheng/post-ling-cha-ba-ti-ti-mu-lie-biao)
+- [常用数据结构（前缀和/差分/栈/队列/堆/字典树/并查集/树状数组/线段树）](https://leetcode.cn/circle/discuss/mOr1u6/)
 
 ### 高质量算法交流群
 
