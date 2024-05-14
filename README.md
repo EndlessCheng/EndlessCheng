@@ -14,10 +14,12 @@
 - [图论算法（DFS/BFS/拓扑排序/最短路/最小生成树/二分图/基环树/欧拉路径）](https://leetcode.cn/circle/discuss/01LUak/)
 - 🔥[动态规划（入门/背包/状态机/划分/区间/状压/数位/数据结构优化/树形/博弈/概率期望）](https://leetcode.cn/circle/discuss/tXLS3i/)
 - [常用数据结构（前缀和/差分/栈/队列/堆/字典树/并查集/树状数组/线段树）](https://leetcode.cn/circle/discuss/mOr1u6/)
+- [数学算法（数论/组合/概率期望/博弈/计算几何/随机算法）](https://leetcode.cn/circle/discuss/IYT3ss/)
 
 ### 其它
 
 - 🔥[从集合论到位运算，常见位运算技巧分类总结！](https://leetcode.cn/circle/discuss/CaOJ45/)
+- [模运算的世界：当加减乘除遇上取模](https://leetcode.cn/circle/discuss/mDfnkW/)
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
 - [Codeforces 怎么上分？](https://www.zhihu.com/question/353734418/answer/2353160035)
 - [按照洛谷通过人数排序的 CF 题单](https://www.luogu.com.cn/training/465300)
