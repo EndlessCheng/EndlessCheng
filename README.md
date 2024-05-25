@@ -22,7 +22,8 @@
 - [模运算的世界：当加减乘除遇上取模](https://leetcode.cn/circle/discuss/mDfnkW/)
 - [如何科学上分（科学刷题）？](https://www.bilibili.com/read/cv22332590/)
 - [Codeforces 怎么上分？](https://www.zhihu.com/question/353734418/answer/2353160035)
-- [按照洛谷通过人数排序的 CF 题单](https://www.luogu.com.cn/training/465300)
+- [按照洛谷通过人数排序的 Codeforces 题单](https://www.luogu.com.cn/training/465300)
+- [按照洛谷通过人数排序的 AtCoder 题单](https://www.luogu.com.cn/training/520035)
 - [按照洛谷通过人数排序的主题库题单](https://www.luogu.com.cn/training/491073)
 - [《灵茶八题》题目列表](https://www.luogu.com.cn/blog/endlesscheng/post-ling-cha-ba-ti-ti-mu-lie-biao)
 
