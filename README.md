@@ -6,7 +6,7 @@
 
 ### 分类题单
 
-[如何科学刷题？](https://leetcode.cn/circle/discuss/RvFUtj/)
+🔥[如何科学刷题？](https://leetcode.cn/circle/discuss/RvFUtj/)
 
 1. [滑动窗口与双指针（定长/不定长/至多/至少/恰好/单序列/双序列/三指针）](https://leetcode.cn/circle/discuss/0viNMK/)
 2. [二分算法（二分答案/最小化最大值/最大化最小值/第K小）](https://leetcode.cn/circle/discuss/SqopEo/)
