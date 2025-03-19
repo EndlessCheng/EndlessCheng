@@ -29,7 +29,7 @@
 - [按照洛谷通过人数排序的 Codeforces 题单](https://www.luogu.com.cn/training/465300)
 - [按照洛谷通过人数排序的 AtCoder 题单](https://www.luogu.com.cn/training/520035)
 - [按照洛谷通过人数排序的主题库题单](https://www.luogu.com.cn/training/491073)
-- [《灵茶八题》题目列表](https://www.luogu.com.cn/blog/endlesscheng/post-ling-cha-ba-ti-ti-mu-lie-biao)
+- [《灵茶八题》题目列表](https://zhuanlan.zhihu.com/p/31292765508)
 
 ### 高质量算法交流群
 
