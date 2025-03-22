@@ -24,7 +24,7 @@
 ### 其他
 
 - 🔥[从集合论到位运算，常见位运算技巧分类总结！](https://leetcode.cn/circle/discuss/CaOJ45/)
-- [模运算的世界：当加减乘除遇上取模（模运算恒等式/费马小定理/组合数）](https://leetcode.cn/circle/discuss/mDfnkW/)
+- [模运算的世界：当加减乘除遇上取模（模运算恒等式/费马小定理/组合数模板）](https://leetcode.cn/circle/discuss/mDfnkW/)
 - [Codeforces 怎么上分？](https://www.zhihu.com/question/353734418/answer/2353160035)
 - [按照洛谷通过人数排序的 Codeforces 题单](https://www.luogu.com.cn/training/465300)
 - [按照洛谷通过人数排序的 AtCoder 题单](https://www.luogu.com.cn/training/520035)
