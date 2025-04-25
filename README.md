@@ -4,7 +4,7 @@
 - [课上例题+课后作业+多种语言代码](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 - [高质量题解精选](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md)
 
-### 分类题单
+### 算法题单
 
 🔥[如何科学刷题？](https://leetcode.cn/circle/discuss/RvFUtj/)
 
